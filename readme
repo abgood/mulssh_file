@@ -1,0 +1,9 @@
+说明:
+    实现一台机器向多台机器发送命令并执行,目标机器ip信息放在iplist里
+    iplist内容:ip,user,pawd,port
+
+1.安装
+    make
+    
+2.运行
+    ./ssh 命令
